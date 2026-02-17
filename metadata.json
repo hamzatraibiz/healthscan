@@ -1,0 +1,8 @@
+
+{
+  "name": "HealthScan",
+  "description": "Une application intelligente pour scanner vos aliments et obtenir une analyse nutritionnelle instantanée. Découvrez si vos produits sont bons pour votre santé grâce à l'IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
